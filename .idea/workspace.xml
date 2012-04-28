@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45fb199-71ee-4d41-a267-d7bfe08f63b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/BidGrokk.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bid_grokk.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/bid_grokk_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bid_grokk.rb" afterPath="$PROJECT_DIR$/bid_grokk.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/bid_grokk_spec.rb" afterPath="$PROJECT_DIR$/spec/bid_grokk_spec.rb" />
     </list>
     <ignored path="BidGrokk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +29,7 @@
       <file leaf-file-name="bid_grokk_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/bid_grokk_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="38" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+            <state line="18" column="62" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -45,7 +38,7 @@
       <file leaf-file-name="bid_grokk.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bid_grokk.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="48" selection-start="139" selection-end="139" vertical-scroll-proportion="0.10643016">
+            <state line="12" column="64" selection-start="480" selection-end="480" vertical-scroll-proportion="0.42572063">
               <folding />
             </state>
           </provider>
@@ -393,14 +386,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/bid_grokk_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="38" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+        <state line="18" column="62" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bid_grokk.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="48" selection-start="139" selection-end="139" vertical-scroll-proportion="0.10643016">
+        <state line="12" column="64" selection-start="480" selection-end="480" vertical-scroll-proportion="0.42572063">
           <folding />
         </state>
       </provider>

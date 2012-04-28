@@ -1,8 +1,8 @@
 class BidGrokk
 
-  def main (servers, bids
-    # use servers as max length and bids as decreasing y values
-    # finding target y and max area is then equivalent to finding target bid and maximum money
+  # use servers as max length and bids as decreasing y values
+  # finding target y and max area is then equivalent to finding target bid and maximum money
+  def main (servers, bids)
     target_bid, max_bling = find_max_area servers, bids
     puts "target bid = #{target_bid}, max bling = #{max_bling}"
   end

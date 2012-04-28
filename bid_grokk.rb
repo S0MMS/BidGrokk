@@ -1,13 +1,13 @@
 class BidGrokk
 
-  # use servers as max length and bids as decreasing y values
-  # finding target y and max area is then equivalent to finding target bid and maximum money
+  # Consider servers as max length and bids as a sequence of decreasing y values,
+  # then finding target bid that yields max money is equivalent to finding target y that yields max area.
   def main (servers, bids)
     target_bid, max_bling = find_max_area servers, bids
     puts "target bid = #{target_bid}, max bling = #{max_bling}"
   end
 
-  # given max length and decreasing y values, find rectangle with maximum area. Time complexity = O(n).
+  # Given max length and decreasing y values, find rectangle with maximum area. Time complexity = O(n).
   def find_max_area (max_length, y_values)
     max_area, target_y = 0, 0
 

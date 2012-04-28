@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a45fb199-71ee-4d41-a267-d7bfe08f63b8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bid_grokk.rb" afterPath="$PROJECT_DIR$/bid_grokk.rb" />
     </list>
     <ignored path="BidGrokk.iws" />
@@ -35,19 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bid_grokk.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="bid_grokk.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bid_grokk.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="103" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+            <state line="2" column="28" selection-start="44" selection-end="44" vertical-scroll-proportion="0.070953436">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.070953436">
+            <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/spec/bid_grokk_spec.rb" />
-        <option value="$PROJECT_DIR$/bid_grokk.rb" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/bid_grokk.rb" />
       </list>
     </option>
   </component>
@@ -393,16 +392,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bid_grokk.rb">
+    <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="103" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+        <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
+    <entry file="file://$PROJECT_DIR$/bid_grokk.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.070953436">
+        <state line="2" column="28" selection-start="44" selection-end="44" vertical-scroll-proportion="0.070953436">
           <folding />
         </state>
       </provider>

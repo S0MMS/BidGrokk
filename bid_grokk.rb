@@ -7,7 +7,7 @@ class BidGrokk
     puts "target bid = #{target_bid}, max bling = #{max_bling}"
   end
 
-  # given max length and decreasing y values, find rectangle with maximum area
+  # given max length and decreasing y values, find rectangle with maximum area. Time complexity = O(n).
   def find_max_area (max_length, y_values)
     max_area, target_y = 0, 0
 
